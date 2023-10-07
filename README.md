@@ -1,7 +1,7 @@
 # Final Year Project
 CloudFirst: An Interactive Slack Chatbot & React Dashboard For Modern Deployment Pipelines
 
-Technology used: TypeScript, React, AWS CDK, AWS Lambda, Slack, + loads of AWS services with CDK
+Technology used: TypeScript, React, AWS CDK, AWS Lambda, Slack, + loads of other AWS services with CDK
 
 Screenshots from Report:
 <img width="1080" alt="Screenshot 2023-10-07 at 12 27 18" src="https://github.com/Joshrogan/FinalYearProject/assets/32137354/f676332f-a1a4-4725-859d-27a9be2e0369">
